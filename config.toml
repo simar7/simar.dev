@@ -1,0 +1,29 @@
+baseURL = "https://simar.dev/"
+languageCode = "en-us"
+title = "hexlabs – simar.dev"
+theme = "yinyang"
+
+[author]
+  name = "HexLabs"
+  homepage = "https://simar.dev/"
+
+[params]
+extraHead = """
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140661306-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140661306-1');
+</script>
+"""
+
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/simar7"
+[[params.socials]]
+name = "LinkedIn"
+link = "https://linkedin.com/in/simar7/"
