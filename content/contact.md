@@ -5,3 +5,5 @@ draft: false
 ---
 
 For enquiries please reach out to [hexlabs]@[simar.dev]
+
+Or tweet over at twitter [@simarpreet7](https://twitter.com/simarpreet7)
